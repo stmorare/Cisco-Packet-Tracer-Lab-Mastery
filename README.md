@@ -1,6 +1,6 @@
 # Cisco Packet Tracer Lab Mastery
 
-## ***Strengthen your AWS skills through practical projects, from websites to advanced AI applications***
+## ***Build and Secure Advanced Topologies***
 
 ## AUTHORS:
 [Ivo Pinto](https://www.linkedin.com/in/ivopinto01/)
